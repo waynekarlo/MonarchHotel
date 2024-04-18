@@ -19,7 +19,6 @@
             }
             base.Dispose(disposing);
         }
-
         #region Windows Form Designer generated code
 
         /// <summary>
@@ -42,7 +41,7 @@
             ConsentLink = new LinkLabel();
             check_Agrees = new CheckBox();
             label3 = new Label();
-            round1 = new Round();
+            btnRegister = new Round();
             SuspendLayout();
             // 
             // txt_FullName
@@ -58,11 +57,11 @@
             // 
             lbl_Name.AutoSize = true;
             lbl_Name.BackColor = Color.Transparent;
-            lbl_Name.Font = new Font("Quicksand SemiBold", 10.2F, FontStyle.Bold);
+            lbl_Name.Font = new Font("Microsoft Sans Serif", 10.2F, FontStyle.Bold);
             lbl_Name.ForeColor = Color.ForestGreen;
             lbl_Name.Location = new Point(162, 112);
             lbl_Name.Name = "lbl_Name";
-            lbl_Name.Size = new Size(72, 25);
+            lbl_Name.Size = new Size(70, 20);
             lbl_Name.TabIndex = 1;
             lbl_Name.Text = "Name *";
             // 
@@ -70,11 +69,11 @@
             // 
             lbl_PInfoSect.AutoSize = true;
             lbl_PInfoSect.BackColor = Color.Transparent;
-            lbl_PInfoSect.Font = new Font("Quicksand", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lbl_PInfoSect.Font = new Font("Microsoft Sans Serif", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lbl_PInfoSect.ForeColor = Color.ForestGreen;
             lbl_PInfoSect.Location = new Point(99, 58);
             lbl_PInfoSect.Name = "lbl_PInfoSect";
-            lbl_PInfoSect.Size = new Size(248, 34);
+            lbl_PInfoSect.Size = new Size(254, 29);
             lbl_PInfoSect.TabIndex = 2;
             lbl_PInfoSect.Text = "Personal Information";
             // 
@@ -82,11 +81,11 @@
             // 
             lbl_PasswordSect.AutoSize = true;
             lbl_PasswordSect.BackColor = Color.Transparent;
-            lbl_PasswordSect.Font = new Font("Quicksand", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lbl_PasswordSect.Font = new Font("Microsoft Sans Serif", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lbl_PasswordSect.ForeColor = Color.ForestGreen;
             lbl_PasswordSect.Location = new Point(99, 266);
             lbl_PasswordSect.Name = "lbl_PasswordSect";
-            lbl_PasswordSect.Size = new Size(206, 34);
+            lbl_PasswordSect.Size = new Size(217, 29);
             lbl_PasswordSect.TabIndex = 3;
             lbl_PasswordSect.Text = "Password Setting";
             // 
@@ -94,11 +93,11 @@
             // 
             lbl_Pass.AutoSize = true;
             lbl_Pass.BackColor = Color.Transparent;
-            lbl_Pass.Font = new Font("Quicksand SemiBold", 10.2F, FontStyle.Bold);
+            lbl_Pass.Font = new Font("Microsoft Sans Serif", 10.2F, FontStyle.Bold);
             lbl_Pass.ForeColor = Color.ForestGreen;
             lbl_Pass.Location = new Point(162, 307);
             lbl_Pass.Name = "lbl_Pass";
-            lbl_Pass.Size = new Size(101, 25);
+            lbl_Pass.Size = new Size(104, 20);
             lbl_Pass.TabIndex = 5;
             lbl_Pass.Text = "Password *";
             // 
@@ -115,11 +114,11 @@
             // 
             lbl_RePass.AutoSize = true;
             lbl_RePass.BackColor = Color.Transparent;
-            lbl_RePass.Font = new Font("Quicksand SemiBold", 10.2F, FontStyle.Bold);
+            lbl_RePass.Font = new Font("Microsoft Sans Serif", 10.2F, FontStyle.Bold);
             lbl_RePass.ForeColor = Color.ForestGreen;
             lbl_RePass.Location = new Point(162, 382);
             lbl_RePass.Name = "lbl_RePass";
-            lbl_RePass.Size = new Size(179, 25);
+            lbl_RePass.Size = new Size(183, 20);
             lbl_RePass.TabIndex = 7;
             lbl_RePass.Text = "Re-enter Password *";
             // 
@@ -136,11 +135,11 @@
             // 
             label2.AutoSize = true;
             label2.BackColor = Color.Transparent;
-            label2.Font = new Font("Quicksand SemiBold", 10.2F, FontStyle.Bold);
+            label2.Font = new Font("Microsoft Sans Serif", 10.2F, FontStyle.Bold);
             label2.ForeColor = Color.ForestGreen;
             label2.Location = new Point(162, 187);
             label2.Name = "label2";
-            label2.Size = new Size(139, 25);
+            label2.Size = new Size(144, 20);
             label2.TabIndex = 9;
             label2.Text = "Email Address *";
             // 
@@ -157,12 +156,12 @@
             // 
             ConsentLink.AutoSize = true;
             ConsentLink.BackColor = Color.Transparent;
-            ConsentLink.Font = new Font("Quicksand SemiBold", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            ConsentLink.Font = new Font("Microsoft Sans Serif", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             ConsentLink.ForeColor = Color.Black;
             ConsentLink.LinkColor = Color.ForestGreen;
             ConsentLink.Location = new Point(99, 461);
             ConsentLink.Name = "ConsentLink";
-            ConsentLink.Size = new Size(433, 34);
+            ConsentLink.Size = new Size(456, 29);
             ConsentLink.TabIndex = 10;
             ConsentLink.TabStop = true;
             ConsentLink.Text = "Personal Data Protection and Consent";
@@ -171,11 +170,11 @@
             // 
             check_Agrees.AutoSize = true;
             check_Agrees.BackColor = Color.Transparent;
-            check_Agrees.Font = new Font("Quicksand", 10.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            check_Agrees.Font = new Font("Microsoft Sans Serif", 10.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
             check_Agrees.ForeColor = Color.ForestGreen;
             check_Agrees.Location = new Point(162, 511);
             check_Agrees.Name = "check_Agrees";
-            check_Agrees.Size = new Size(612, 30);
+            check_Agrees.Size = new Size(590, 26);
             check_Agrees.TabIndex = 11;
             check_Agrees.Text = "I have Read and Agree to the Personal Data Protection and Consent *";
             check_Agrees.UseVisualStyleBackColor = false;
@@ -184,33 +183,33 @@
             // 
             label3.AutoSize = true;
             label3.BackColor = Color.Transparent;
-            label3.Font = new Font("Quicksand SemiBold", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label3.Font = new Font("Microsoft Sans Serif", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label3.ForeColor = Color.ForestGreen;
             label3.Location = new Point(162, 21);
             label3.Name = "label3";
-            label3.Size = new Size(166, 25);
+            label3.Size = new Size(166, 20);
             label3.TabIndex = 13;
             label3.Text = "* Mandatory Fields";
             // 
-            // round1
+            // btnRegister
             // 
-            round1.BackColor = Color.ForestGreen;
-            round1.BackgroundColor = Color.ForestGreen;
-            round1.BorderColor = Color.WhiteSmoke;
-            round1.BorderRadius = 36;
-            round1.BorderSize = 0;
-            round1.FlatAppearance.BorderSize = 0;
-            round1.FlatStyle = FlatStyle.Flat;
-            round1.Font = new Font("Quicksand SemiBold", 12F, FontStyle.Bold);
-            round1.ForeColor = Color.White;
-            round1.Location = new Point(325, 577);
-            round1.Name = "round1";
-            round1.Size = new Size(132, 53);
-            round1.TabIndex = 14;
-            round1.Text = "Sign Up";
-            round1.TextColor = Color.White;
-            round1.UseVisualStyleBackColor = false;
-            round1.Click += round1_Click;
+            btnRegister.BackColor = Color.ForestGreen;
+            btnRegister.BackgroundColor = Color.ForestGreen;
+            btnRegister.BorderColor = Color.WhiteSmoke;
+            btnRegister.BorderRadius = 36;
+            btnRegister.BorderSize = 0;
+            btnRegister.FlatAppearance.BorderSize = 0;
+            btnRegister.FlatStyle = FlatStyle.Flat;
+            btnRegister.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold);
+            btnRegister.ForeColor = Color.White;
+            btnRegister.Location = new Point(325, 577);
+            btnRegister.Name = "btnRegister";
+            btnRegister.Size = new Size(132, 53);
+            btnRegister.TabIndex = 14;
+            btnRegister.Text = "Sign Up";
+            btnRegister.TextColor = Color.White;
+            btnRegister.UseVisualStyleBackColor = false;
+            btnRegister.Click += btnRegister1;
             // 
             // Registration_Page
             // 
@@ -220,7 +219,7 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 694);
-            Controls.Add(round1);
+            Controls.Add(btnRegister);
             Controls.Add(label3);
             Controls.Add(check_Agrees);
             Controls.Add(ConsentLink);
@@ -238,7 +237,6 @@
             Name = "Registration_Page";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Register";
-            Load += Registration_Page_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -258,6 +256,6 @@
         private LinkLabel ConsentLink;
         private CheckBox check_Agrees;
         private Label label3;
-        private Round round1;
+        private Round btnRegister;
     }
 }

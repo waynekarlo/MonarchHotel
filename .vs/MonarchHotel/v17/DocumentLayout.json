@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|c:\\users\\wayne karlo\\documents\\github\\monarchhotel\\monarchhotel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|solutionrelative:monarchhotel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|c:\\users\\wayne karlo\\documents\\github\\monarchhotel\\monarchhotel\\signin_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|solutionrelative:monarchhotel\\signin_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|c:\\users\\wayne karlo\\documents\\github\\monarchhotel\\monarchhotel\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|solutionrelative:monarchhotel\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|c:\\users\\wayne karlo\\documents\\github\\monarchhotel\\monarchhotel\\signin_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|solutionrelative:monarchhotel\\signin_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|c:\\users\\wayne karlo\\documents\\github\\monarchhotel\\monarchhotel\\registration_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|solutionrelative:monarchhotel\\registration_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|c:\\users\\wayne karlo\\documents\\github\\monarchhotel\\monarchhotel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|solutionrelative:monarchhotel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|c:\\users\\wayne karlo\\documents\\github\\monarchhotel\\monarchhotel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|solutionrelative:monarchhotel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\monarchhotel\\registration_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|solutionrelative:monarchhotel\\registration_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|c:\\users\\wayne karlo\\documents\\github\\monarchhotel\\monarchhotel\\monarchhotel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|solutionrelative:monarchhotel\\monarchhotel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|c:\\users\\wayne karlo\\documents\\github\\monarchhotel\\monarchhotel\\registration_page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|solutionrelative:monarchhotel\\registration_page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|c:\\users\\wayne karlo\\documents\\github\\monarchhotel\\monarchhotel\\signin_page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|solutionrelative:monarchhotel\\signin_page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\monarchhotel\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|solutionrelative:monarchhotel\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|c:\\users\\wayne karlo\\documents\\github\\monarchhotel\\monarchhotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FB30241-E84A-4E54-857F-BDBBA99451CA}|MonarchHotel\\MonarchHotel.csproj|solutionrelative:monarchhotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\Form1.cs",
+              "RelativeDocumentMoniker": "MonarchHotel\\Form1.cs",
+              "ToolTip": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\Form1.cs",
+              "RelativeToolTip": "MonarchHotel\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:32:50.003Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\User.cs",
+              "RelativeDocumentMoniker": "MonarchHotel\\User.cs",
+              "ToolTip": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\User.cs",
+              "RelativeToolTip": "MonarchHotel\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAzwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:14:16.606Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignIn_Page.cs",
+              "DocumentMoniker": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\SignIn_Page.cs",
+              "RelativeDocumentMoniker": "MonarchHotel\\SignIn_Page.cs",
+              "ToolTip": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\SignIn_Page.cs",
+              "RelativeToolTip": "MonarchHotel\\SignIn_Page.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAywCEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:50:41.25Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\Form1.cs",
+              "RelativeDocumentMoniker": "MonarchHotel\\Form1.cs",
+              "ToolTip": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\Form1.cs [Design]",
+              "RelativeToolTip": "MonarchHotel\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:47:17.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registration_Page.cs",
+              "DocumentMoniker": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\Registration_Page.cs",
+              "RelativeDocumentMoniker": "MonarchHotel\\Registration_Page.cs",
+              "ToolTip": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\Registration_Page.cs",
+              "RelativeToolTip": "MonarchHotel\\Registration_Page.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwCYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "MonarchHotel",
+              "WhenOpened": "2024-04-18T13:41:19.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registration_Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\Registration_Page.cs",
+              "RelativeDocumentMoniker": "MonarchHotel\\Registration_Page.cs",
+              "ToolTip": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\Registration_Page.cs [Design]",
+              "RelativeToolTip": "MonarchHotel\\Registration_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:33:58.862Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MonarchHotel\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\Form1.Designer.cs",
+              "RelativeToolTip": "MonarchHotel\\Form1.Designer.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwDoBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "MonarchHotel",
+              "WhenOpened": "2024-04-12T00:36:27.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignIn_Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\SignIn_Page.cs",
+              "RelativeDocumentMoniker": "MonarchHotel\\SignIn_Page.cs",
+              "ToolTip": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\SignIn_Page.cs [Design]",
+              "RelativeToolTip": "MonarchHotel\\SignIn_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:50:37.317Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MonarchHotel.csproj",
+              "DocumentMoniker": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\MonarchHotel.csproj",
+              "RelativeDocumentMoniker": "MonarchHotel\\MonarchHotel.csproj",
+              "ToolTip": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\MonarchHotel.csproj",
+              "RelativeToolTip": "MonarchHotel\\MonarchHotel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T13:39:19.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Registration_Page.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\Registration_Page.Designer.cs",
+              "RelativeDocumentMoniker": "MonarchHotel\\Registration_Page.Designer.cs",
+              "ToolTip": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\Registration_Page.Designer.cs",
+              "RelativeToolTip": "MonarchHotel\\Registration_Page.Designer.cs",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAowNMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:41:15.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignIn_Page.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\SignIn_Page.Designer.cs",
+              "RelativeDocumentMoniker": "MonarchHotel\\SignIn_Page.Designer.cs",
+              "ToolTip": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\SignIn_Page.Designer.cs",
+              "RelativeToolTip": "MonarchHotel\\SignIn_Page.Designer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:02:22.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\Form2.cs",
+              "RelativeDocumentMoniker": "MonarchHotel\\Form2.cs",
+              "ToolTip": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\Form2.cs [Design]",
+              "RelativeToolTip": "MonarchHotel\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:23:23.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\Program.cs",
+              "RelativeDocumentMoniker": "MonarchHotel\\Program.cs",
+              "ToolTip": "C:\\Users\\Wayne Karlo\\Documents\\GitHub\\MonarchHotel\\MonarchHotel\\Program.cs",
+              "RelativeToolTip": "MonarchHotel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:02:16.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
