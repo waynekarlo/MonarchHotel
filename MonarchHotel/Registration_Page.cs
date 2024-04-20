@@ -34,7 +34,7 @@ namespace Monarch_Hotel
             }
             else
             {
-                User user = new User(txt_EmailAdd.Text, txt_Pass.Text);
+                User user = new User(txt_EmailAdd.Text, txt_Pass.Text, txt_FullName.Text);
                 User.AddUserToList(user);
                 MessageBox.Show("Registered successfully.");
                 this.Hide();

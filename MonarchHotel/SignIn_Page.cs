@@ -23,21 +23,24 @@ namespace Monarch_Hotel
 
         }
 
-        private void round1_Click(object sender, EventArgs e)
+        public void round1_Click(object sender, EventArgs e, MainPage mainPage)
         {
-
             foreach (User user in User.UserData)
             {
                 if (txt_EmailAdd.Text == user.Username && txt_Pass.Text == user.Password)
                 {
+                    //user.Name = txt_FullName.Text;
                     MessageBox.Show("Sign in successful");
-                    MainPage.link_Register.Hide();
-                    MainPage.link_SignIn.Hide();
-                    MainPage.link_LogOut.Show();
+                    mainPage.link_Register.Hide();
+                    mainPage.link_SignIn.Hide();
+                    mainPage.link_LogOut.Show();
+                    //mainPage.lblName.Text = txt_FullName.Text;
+                    mainPage.lblName.Show();
                     this.Hide();
                 }
                 else
-                {MessageBox.Show("The Username or Password you entered might not be correct");
+                {
+                    MessageBox.Show("The Username or Password you entered might not be correct");
                 }
             }
         }

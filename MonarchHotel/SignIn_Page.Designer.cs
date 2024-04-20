@@ -1,4 +1,5 @@
-﻿namespace Monarch_Hotel
+﻿
+namespace Monarch_Hotel
 {
     partial class SignIn_Page
     {
@@ -134,6 +135,11 @@
             Text = "Sign In";
             ResumeLayout(false);
             PerformLayout();
+        }
+
+        private void round1_Click(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
         }
 
         #endregion

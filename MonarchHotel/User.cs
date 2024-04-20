@@ -12,11 +12,13 @@ namespace MonarchHotel
 
         public string Username;
         public string Password;
+        public string Name;
 
-        public User(string Username, string Password)
+        public User(string Username, string Password, string Name)
         {
             this.Username = Username;
             this.Password = Password;
+            this.Name = Name;
         }
         public static void AddUserToList (User user)
         {
