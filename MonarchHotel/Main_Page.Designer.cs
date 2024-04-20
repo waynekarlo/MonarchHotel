@@ -1,6 +1,6 @@
 ﻿namespace Monarch_Hotel
 {
-    partial class MainPage
+    partial class Main_Page
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,12 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainPage));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Main_Page));
             lbl_Welcome = new Label();
             link_SignIn = new LinkLabel();
             link_Register = new LinkLabel();
             link_LogOut = new LinkLabel();
-            lblName = new Label();
             tab_Amenities = new TabPage();
             groupBox8 = new GroupBox();
             label10 = new Label();
@@ -165,18 +164,6 @@
             link_LogOut.TabStop = true;
             link_LogOut.Text = "Log Out";
             link_LogOut.LinkClicked += link_LogOut_LinkClicked;
-            // 
-            // lblName
-            // 
-            lblName.AutoSize = true;
-            lblName.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lblName.ForeColor = Color.Green;
-            lblName.Location = new Point(12, 44);
-            lblName.Name = "lblName";
-            lblName.Size = new Size(78, 20);
-            lblName.TabIndex = 6;
-            lblName.Text = "Welcome,";
-            lblName.Click += label1_Click_1;
             // 
             // tab_Amenities
             // 
@@ -444,11 +431,11 @@
             lbl_Suite.AutoSize = true;
             lbl_Suite.Font = new Font("JetBrains Mono", 10.7999992F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lbl_Suite.ForeColor = Color.Black;
-            lbl_Suite.Location = new Point(399, 28);
+            lbl_Suite.Location = new Point(399, 61);
             lbl_Suite.Name = "lbl_Suite";
-            lbl_Suite.Size = new Size(351, 184);
+            lbl_Suite.Size = new Size(351, 138);
             lbl_Suite.TabIndex = 2;
-            lbl_Suite.Text = "* 1 Bedroom\r\n* 1 Bathroom\r\n* 1 Living and Dining Area\r\n* 1 Kitchen\r\n* Queen-size bed\r\n* Max 2 pax (3rd pax chargable)\r\n* Queen-size bed\r\n* Max 2 pax (3rd pax chargable)";
+            lbl_Suite.Text = "* 1 Bedroom\r\n* 1 Bathroom\r\n* 1 Living and Dining Area\r\n* 1 Kitchen\r\n* Queen-size bed\r\n* Max 2 pax (3rd pax chargable)";
             // 
             // btn_Book4
             // 
@@ -456,12 +443,13 @@
             btn_Book4.FlatStyle = FlatStyle.Popup;
             btn_Book4.Font = new Font("Microsoft Sans Serif", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btn_Book4.ForeColor = Color.White;
-            btn_Book4.Location = new Point(661, 237);
+            btn_Book4.Location = new Point(652, 237);
             btn_Book4.Name = "btn_Book4";
-            btn_Book4.Size = new Size(170, 36);
+            btn_Book4.Size = new Size(179, 36);
             btn_Book4.TabIndex = 1;
             btn_Book4.Text = "Book";
             btn_Book4.UseVisualStyleBackColor = false;
+            btn_Book4.Click += btn_Book4_Click;
             // 
             // Pic_Suite
             // 
@@ -493,20 +481,20 @@
             lbl_ExecPrice.ForeColor = Color.Black;
             lbl_ExecPrice.Location = new Point(399, 237);
             lbl_ExecPrice.Name = "lbl_ExecPrice";
-            lbl_ExecPrice.Size = new Size(258, 32);
+            lbl_ExecPrice.Size = new Size(241, 32);
             lbl_ExecPrice.TabIndex = 3;
-            lbl_ExecPrice.Text = "5,600+ PHP/Night\r\n";
+            lbl_ExecPrice.Text = "5,800 PHP/Night\r\n";
             // 
             // lbl_Exec
             // 
             lbl_Exec.AutoSize = true;
             lbl_Exec.Font = new Font("JetBrains Mono", 10.7999992F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lbl_Exec.ForeColor = Color.Black;
-            lbl_Exec.Location = new Point(399, 28);
+            lbl_Exec.Location = new Point(399, 63);
             lbl_Exec.Name = "lbl_Exec";
-            lbl_Exec.Size = new Size(351, 184);
+            lbl_Exec.Size = new Size(351, 138);
             lbl_Exec.TabIndex = 2;
-            lbl_Exec.Text = "* 1 Bedroom\r\n* 1 Bathroom\r\n* 1 Living and Dining Area\r\n* 1 Kitchen\r\n* Queen-size bed\r\n* Max 2 pax (3rd pax chargable)\r\n* Queen-size Bed\r\n* Max 2 pax (3rd pax chargable)";
+            lbl_Exec.Text = "* 1 Bedroom\r\n* 1 Bathroom\r\n* 1 Living and Dining Area\r\n* 1 Kitchen\r\n* Queen-size bed\r\n* Max 2 pax (3rd pax chargable)";
             // 
             // btn_Book3
             // 
@@ -514,12 +502,13 @@
             btn_Book3.FlatStyle = FlatStyle.Popup;
             btn_Book3.Font = new Font("Microsoft Sans Serif", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btn_Book3.ForeColor = Color.White;
-            btn_Book3.Location = new Point(661, 237);
+            btn_Book3.Location = new Point(652, 237);
             btn_Book3.Name = "btn_Book3";
-            btn_Book3.Size = new Size(170, 36);
+            btn_Book3.Size = new Size(179, 36);
             btn_Book3.TabIndex = 1;
             btn_Book3.Text = "Book";
             btn_Book3.UseVisualStyleBackColor = false;
+            btn_Book3.Click += btn_Book3_Click;
             // 
             // Pic_Exec
             // 
@@ -561,11 +550,11 @@
             lbl_Deluxe.AutoSize = true;
             lbl_Deluxe.Font = new Font("JetBrains Mono", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lbl_Deluxe.ForeColor = Color.Black;
-            lbl_Deluxe.Location = new Point(399, 37);
+            lbl_Deluxe.Location = new Point(399, 53);
             lbl_Deluxe.Name = "lbl_Deluxe";
-            lbl_Deluxe.Size = new Size(432, 182);
+            lbl_Deluxe.Size = new Size(384, 156);
             lbl_Deluxe.TabIndex = 2;
-            lbl_Deluxe.Text = "* 1 Bedroom\r\n* 1 Bathroom\r\n* Mini-pantry\r\n* King-size bed or 2-Single beds\r\n* Max 2 pax (3rd pax chargable)\r\n* King-size bed or twin single beds\r\n* Max 2 pax (3rd pax chargable)\r\n";
+            lbl_Deluxe.Text = "* 1 Bedroom\r\n* 1 Bathroom\r\n* Mini-pantry\r\n* King-size bed / 2-Single beds\r\n/ Twin Single bed\r\n* Max 2 pax (3rd pax chargable)";
             // 
             // btn_Book1
             // 
@@ -573,9 +562,9 @@
             btn_Book1.FlatStyle = FlatStyle.Popup;
             btn_Book1.Font = new Font("Microsoft Sans Serif", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btn_Book1.ForeColor = Color.White;
-            btn_Book1.Location = new Point(661, 237);
+            btn_Book1.Location = new Point(652, 237);
             btn_Book1.Name = "btn_Book1";
-            btn_Book1.Size = new Size(170, 36);
+            btn_Book1.Size = new Size(179, 36);
             btn_Book1.TabIndex = 1;
             btn_Book1.Text = "Book";
             btn_Book1.UseVisualStyleBackColor = false;
@@ -622,11 +611,11 @@
             lbl_Premier.AutoSize = true;
             lbl_Premier.Font = new Font("JetBrains Mono", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lbl_Premier.ForeColor = Color.Black;
-            lbl_Premier.Location = new Point(399, 28);
+            lbl_Premier.Location = new Point(399, 40);
             lbl_Premier.Name = "lbl_Premier";
-            lbl_Premier.Size = new Size(420, 208);
+            lbl_Premier.Size = new Size(408, 156);
             lbl_Premier.TabIndex = 2;
-            lbl_Premier.Text = "* 1 Bedroom\r\n* 1 Bathroom\r\n* Mini-pantry\r\n* 1 King-size bed or 2-Single beds\r\n* Max 2 pax (3rd pax chargable)\r\n* King / Twin Bed\r\n* Max 2 pax (3rd pax chargable)\r\n\r\n";
+            lbl_Premier.Text = "* 1 Bedroom\r\n* 1 Bathroom\r\n* Mini-pantry\r\n* 1 King-size bed/ 2-Single beds \r\n/ Twin Single bed\r\n* Max 2 pax (3rd pax chargable)";
             // 
             // btn_Book2
             // 
@@ -634,9 +623,9 @@
             btn_Book2.FlatStyle = FlatStyle.Popup;
             btn_Book2.Font = new Font("Microsoft Sans Serif", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btn_Book2.ForeColor = Color.White;
-            btn_Book2.Location = new Point(661, 237);
+            btn_Book2.Location = new Point(652, 237);
             btn_Book2.Name = "btn_Book2";
-            btn_Book2.Size = new Size(170, 36);
+            btn_Book2.Size = new Size(179, 36);
             btn_Book2.TabIndex = 1;
             btn_Book2.Text = "Book";
             btn_Book2.UseVisualStyleBackColor = false;
@@ -773,13 +762,12 @@
             ControlTab_Main.Size = new Size(946, 659);
             ControlTab_Main.TabIndex = 1;
             // 
-            // MainPage
+            // Main_Page
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.MintCream;
             ClientSize = new Size(1046, 864);
-            Controls.Add(lblName);
             Controls.Add(link_LogOut);
             Controls.Add(link_Register);
             Controls.Add(link_SignIn);
@@ -787,11 +775,10 @@
             Controls.Add(lbl_Welcome);
             ForeColor = Color.FromArgb(252, 205, 241);
             Icon = (Icon)resources.GetObject("$this.Icon");
-            Name = "MainPage";
+            Name = "Main_Page";
             ShowInTaskbar = false;
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Monarch Hotel";
-            WindowState = FormWindowState.Minimized;
             tab_Amenities.ResumeLayout(false);
             groupBox8.ResumeLayout(false);
             groupBox8.PerformLayout();

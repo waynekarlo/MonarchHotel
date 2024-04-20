@@ -23,7 +23,7 @@ namespace Monarch_Hotel
 
         }
 
-        public void round1_Click(object sender, EventArgs e, MainPage mainPage)
+        public void round1_Click(object sender, EventArgs e, Main_Page mainPage)
         {
             foreach (User user in User.UserData)
             {

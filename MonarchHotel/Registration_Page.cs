@@ -32,9 +32,12 @@ namespace Monarch_Hotel
             {
                 MessageBox.Show("Password does not match!");
             }
+            else if (!check_Agrees.Checked) {
+                MessageBox.Show("Please agree to the terms and conditions before proceeding.");
+            }
             else
             {
-                User user = new User(txt_EmailAdd.Text, txt_Pass.Text, txt_FullName.Text);
+                User user = new User(txt_EmailAdd.Text, txt_Pass.Text);
                 User.AddUserToList(user);
                 MessageBox.Show("Registered successfully.");
                 this.Hide();
