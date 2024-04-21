@@ -7,7 +7,9 @@ namespace Monarch_Hotel
         {
             InitializeComponent();
             link_LogOut.Hide();
+            Mainpage = this;
         }
+        public static Main_Page Mainpage;
 
         private void label1_Click(object sender, EventArgs e)
         {

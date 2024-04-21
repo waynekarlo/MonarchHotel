@@ -1,4 +1,6 @@
 ﻿
+
+
 namespace Monarch_Hotel
 {
     partial class SignIn_Page
@@ -35,7 +37,7 @@ namespace Monarch_Hotel
             lbl_Password = new Label();
             txt_Pass = new TextBox();
             link_Register = new LinkLabel();
-            round1 = new Round();
+            btn_SignIn = new Round();
             SuspendLayout();
             // 
             // txt_EmailAdd
@@ -96,25 +98,25 @@ namespace Monarch_Hotel
             link_Register.TabStop = true;
             link_Register.Text = "Not Yet a Member? Join Now";
             // 
-            // round1
+            // btn_SignIn
             // 
-            round1.BackColor = Color.ForestGreen;
-            round1.BackgroundColor = Color.ForestGreen;
-            round1.BorderColor = Color.PaleVioletRed;
-            round1.BorderRadius = 40;
-            round1.BorderSize = 0;
-            round1.FlatAppearance.BorderSize = 0;
-            round1.FlatStyle = FlatStyle.Flat;
-            round1.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold);
-            round1.ForeColor = Color.White;
-            round1.Location = new Point(159, 277);
-            round1.Name = "round1";
-            round1.Size = new Size(456, 41);
-            round1.TabIndex = 6;
-            round1.Text = "Sign In";
-            round1.TextColor = Color.White;
-            round1.UseVisualStyleBackColor = false;
-            round1.Click += round1_Click;
+            btn_SignIn.BackColor = Color.ForestGreen;
+            btn_SignIn.BackgroundColor = Color.ForestGreen;
+            btn_SignIn.BorderColor = Color.PaleVioletRed;
+            btn_SignIn.BorderRadius = 40;
+            btn_SignIn.BorderSize = 0;
+            btn_SignIn.FlatAppearance.BorderSize = 0;
+            btn_SignIn.FlatStyle = FlatStyle.Flat;
+            btn_SignIn.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Bold);
+            btn_SignIn.ForeColor = Color.White;
+            btn_SignIn.Location = new Point(159, 277);
+            btn_SignIn.Name = "btn_SignIn";
+            btn_SignIn.Size = new Size(456, 41);
+            btn_SignIn.TabIndex = 6;
+            btn_SignIn.Text = "Sign In";
+            btn_SignIn.TextColor = Color.White;
+            btn_SignIn.UseVisualStyleBackColor = false;
+            btn_SignIn.Click += btn_SignIn_Click;
             // 
             // SignIn_Page
             // 
@@ -123,7 +125,7 @@ namespace Monarch_Hotel
             BackColor = Color.MintCream;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             ClientSize = new Size(800, 450);
-            Controls.Add(round1);
+            Controls.Add(btn_SignIn);
             Controls.Add(link_Register);
             Controls.Add(lbl_Password);
             Controls.Add(txt_Pass);
@@ -137,11 +139,6 @@ namespace Monarch_Hotel
             PerformLayout();
         }
 
-        private void round1_Click(object sender, EventArgs e)
-        {
-            throw new NotImplementedException();
-        }
-
         #endregion
 
         private TextBox txt_EmailAdd;
@@ -149,6 +146,6 @@ namespace Monarch_Hotel
         private Label lbl_Password;
         private TextBox txt_Pass;
         private LinkLabel link_Register;
-        private Round round1;
+        public Round btn_SignIn;
     }
 }

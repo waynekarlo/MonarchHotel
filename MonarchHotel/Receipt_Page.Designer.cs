@@ -303,6 +303,7 @@
             Controls.Add(dtp_Date);
             Controls.Add(btn_Confirm);
             Controls.Add(lbl_Room);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Receipt_Page";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Receipt";
